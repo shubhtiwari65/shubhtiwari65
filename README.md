@@ -3,7 +3,6 @@
 B.Tech (ECE) student at IIIT Guwahati, building in ML/AI and backend systems. Working across computer vision, NLP, and applied ML.
 
 ## 🔭 Currently
-- General Secretary, Sports Board — IIIT Guwahati
 - Member, Placement Cell — IIIT Guwahati
 
 ## 🏆 Highlights
