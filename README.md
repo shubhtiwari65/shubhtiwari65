@@ -1,5 +1,3 @@
-# -shubhtiwari65-
-
 # Hi, I'm Shubh Tiwari 👋
 
 B.Tech (ECE) student at IIIT Guwahati, building in ML/AI and backend systems. Working across computer vision, NLP, and applied ML.
