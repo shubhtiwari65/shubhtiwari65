@@ -6,10 +6,10 @@ B.Tech (ECE) student at IIIT Guwahati, building in ML/AI and backend systems. Wo
 - Member, Placement Cell — IIIT Guwahati
 
 ## 🏆 Highlights
-- Top 50 / 2000+ teams — NatWest Code for Purpose 2026
-- Top 8 — Smart India Hackathon (SIH)
-- 350+ problems solved across LeetCode, CodeChef, and GeeksforGeeks
-- CPI: 8.17
+- Top 50 / 2000+ teams - NatWest Code for Purpose 2026
+- Top 8 - Smart India Hackathon (SIH)
+- 400+ problems solved across LeetCode, CodeChef, and GeeksforGeeks
+- CPI: 8.39
 
 ## 🚀 Featured Projects
 
